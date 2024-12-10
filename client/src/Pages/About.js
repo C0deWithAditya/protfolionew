@@ -39,7 +39,7 @@ function About() {
                     <p>
                       <b>I'm </b> 
                       Aditya Verma skilled Full Stack Developer with a strong academic foundation and hands-on experience in building dynamic and responsive web applications.With expertise in Java, React.js, PHP, and MySQL, and successfully developed several projects, including a Car Rental Website, Hospital Management System, and a Dynamic News Website. These projects demonstrate my ability to integrate front-end and back-end technologies effectively.
-                      <p>Completed internships at DigiCoders and Live It Solutions, where I mastered various web development technologies and built responsive web applications.Technical proficiencies include HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS, and he is skilled in tools like VS Code, XAMPP, Git, and Apache NetBeans. </p>
+                      <p>Completed internships at DigiCoders and Live It Solutions, where I mastered various web development technologies and built responsive web applications.Technical proficiencies include HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS, and skilled in tools like VS Code, XAMPP, Github,Versel, and Apache NetBeans. </p>
                     </p>
                   </div>
                 </motion.div>
