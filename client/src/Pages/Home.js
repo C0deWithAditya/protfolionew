@@ -19,7 +19,7 @@ const Home = () => {
           <div className="slide"></div>
           <div className="profile-img">
             <div className="image">
-              <img src="/assets/adi.jpg" alt="profile" loading="lazy" />
+              <img src="/assets/p1.jpg" alt="profile" loading="lazy" />
             </div>
           </div>
           <div className="title" data-aos="fade-up">
