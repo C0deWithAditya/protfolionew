@@ -160,12 +160,13 @@ const Wrapper = styled.section`
         top: 0;
         width: 100%;
         height: 52%;
-        background-image: url("/assets/back.jpg");
+        background-image: url("/assets/gitback.gif");
         background-color: ${({ theme }) => theme.colors.white};
         background-repeat: no-repeat;
         background-position: 50% 0%;
         background-size: cover;
         border-radius: 4px 4px 0 0;
+        scale: 1;
         &::before {
           content: "";
           position: absolute;
