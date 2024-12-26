@@ -190,6 +190,14 @@ export const ProjImg = [
         href: "https://github.com/C0deWithAditya/carRental",
         desc: "This is major project which is created using html,css and javascript language and backend using php  in Post Graduation Major Project(2024) and Development time-15 Days. "
     },
+    {
+        id: "13",
+        name: "Typing Test",
+        category: "javascript",
+        imgsrc: "projectImg/react/typing.png",
+        href: "https://c0dewithaditya.github.io/TypingTest/",
+        desc: "This Typing Test website is created using html,css and javascript languag and Development time-1 Day. "
+    },
     ]
 export const Experience = [
     {
