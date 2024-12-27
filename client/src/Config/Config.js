@@ -152,7 +152,7 @@ export const ProjImg = [
     {
         id: "7",
         name: "Tic tac toe",
-        category: "javascript",
+        category: "Games",
         imgsrc: "projectImg/react/Tic.jpg",
         href: "https://c0dewithaditya.github.io/tic-tac-toe.github.io/",
         desc: "This is a tic-tac-toe game which is created using html,css and javascript language and  development time-1 Day."
@@ -177,7 +177,7 @@ export const ProjImg = [
     {
         id: "11",
         name: "Major Car Renting Website",
-        category: "javascript",
+        category: "JAVA",
         imgsrc: "projectImg/react/majorcar.png",
         href: "https://github.com/C0deWithAditya/carRental",
         desc: "Discover the ultimate destination for buying and repairing cars with top-notch expertise and reliable solutions.This website is created using html,css and javascript language and backend using Java in Post Graduation Minor Project(2024) and Development time-10 Days."
@@ -185,7 +185,7 @@ export const ProjImg = [
     {
         id: "12",
         name: "Hospital Management Website",
-        category: "javascript",
+        category: "PHP",
         imgsrc: "projectImg/react/Hospital.png",
         href: "https://github.com/C0deWithAditya/carRental",
         desc: "This is major project which is created using html,css and javascript language and backend using php  in Post Graduation Major Project(2024) and Development time-15 Days. "
@@ -193,10 +193,18 @@ export const ProjImg = [
     {
         id: "13",
         name: "Typing Test",
-        category: "javascript",
+        category: "Games",
         imgsrc: "projectImg/react/typing.png",
         href: "https://c0dewithaditya.github.io/TypingTest/",
         desc: "This Typing Test website is created using html,css and javascript languag and Development time-1 Day. "
+    },
+    {
+        id: "14",
+        name: "Snake Game",
+        category: "Games",
+        imgsrc: "projectImg/react/snake.png",
+        href: "https://c0dewithaditya.github.io/snake-game/",
+        desc: "This Snake Game is created using html,css and javascript languag and Development time-1 Day. "
     },
     ]
 export const Experience = [
