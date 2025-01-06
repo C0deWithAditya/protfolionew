@@ -81,7 +81,7 @@ const Home = () => {
           </div>
           <div className="links">
             <a
-              href="/assets/NEWCV.pdf"
+              href="/assets/CVWork.pdf"
               className="link"
               rel="noreferrer"
               target="_blank"
