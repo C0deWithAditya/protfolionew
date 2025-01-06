@@ -106,7 +106,21 @@ export const SkillSet=[
         imgsrc: "images/canva.png"
     },
     
-   
+    {
+        id: "21",
+        name: "Workday",
+        imgsrc: "images/Workday.png"
+    },
+    {
+        id: "22",
+        name: "XML",
+        imgsrc: "images/xml.png"
+    },
+    {
+        id: "20",
+        name: "XSLT",
+        imgsrc: "images/xsl.png"
+    }
    
     /*
     {
