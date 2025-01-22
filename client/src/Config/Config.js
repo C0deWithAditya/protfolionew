@@ -220,7 +220,7 @@ export const ProjImg = [
     },  {
         id: "15",
         name: "Cars,Trains,Ships products Analysis Dashboard",
-        category: "Games",
+        category: "Microsoft PowerBi",
         imgsrc: "projectImg/react/dashboard.png",
         href: "https://app.powerbi.com/groups/me/reports/4bd72933-107c-4088-877e-a32b43513642/47d64aa997accaa6e363?experience=power-bi",
         desc: "This is my first Power BI project, created as part of my learning journey. I practiced and gained knowledge from the tutorials on the YouTube channel WsCube Tech. Through this project, I explored various Power BI features, including data modeling, visualizations, and dashboards. This hands-on experience allowed me to enhance my understanding of Power BI and its capabilities in transforming raw data into meaningful insights."
