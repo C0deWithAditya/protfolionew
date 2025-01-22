@@ -112,23 +112,21 @@ export const SkillSet=[
         imgsrc: "images/Workday.png"
     },
     {
-        id: "22",
+        id: "23",
         name: "XML",
         imgsrc: "images/xml.png"
     },
     {
-        id: "20",
+        id: "24",
         name: "XSLT",
         imgsrc: "images/xsl.png"
-    }
-   
-    /*
+    },
     {
-        id: "22",
-        name: "Figma",
-        imgsrc: "images/figma.png"
-    }, 
-    {
+        id: "25",
+        name: "PowerBi",
+        imgsrc: "images/powerbi.png"
+    },
+     /*
         id: "19",
         name: "Illustrator",
         imgsrc: "images/Illustrator.png"
@@ -219,6 +217,13 @@ export const ProjImg = [
         imgsrc: "projectImg/react/snake.png",
         href: "https://c0dewithaditya.github.io/snake-game/",
         desc: "This Snake Game is created using html,css and javascript languag and Development time-1 Day. "
+    },  {
+        id: "15",
+        name: "Cars,Trains,Ships products Analysis Dashboard",
+        category: "Games",
+        imgsrc: "projectImg/react/dashboard.png",
+        href: "https://app.powerbi.com/groups/me/reports/4bd72933-107c-4088-877e-a32b43513642/47d64aa997accaa6e363?experience=power-bi",
+        desc: "This is my first Power BI project, created as part of my learning journey. I practiced and gained knowledge from the tutorials on the YouTube channel WsCube Tech. Through this project, I explored various Power BI features, including data modeling, visualizations, and dashboards. This hands-on experience allowed me to enhance my understanding of Power BI and its capabilities in transforming raw data into meaningful insights."
     },
     ]
 export const Experience = [
@@ -286,5 +291,10 @@ export const Services=[
     {   id: 2,
         name: "Software Developer",
         desc: "Can Build a Software solution for your business.",
+    }
+    ,
+    {   id: 2,
+        name: "Data Analyst",
+        desc: "Can Build a Visuals solution of Dataset using PowerBi for your business.",
     }
 ]
