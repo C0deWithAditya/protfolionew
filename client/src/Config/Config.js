@@ -219,12 +219,13 @@ export const ProjImg = [
         desc: "This Snake Game is created using html,css and javascript languag and Development time-1 Day. "
     },  {
         id: "15",
-        name: "Cars,Trains,Ships products Analysis Dashboard",
+        name: "Spotify Analysis Dashboard",
         category: "Microsoft PowerBi",
-        imgsrc: "projectImg/react/dashboard.png",
-        href: "https://app.powerbi.com/groups/me/reports/4bd72933-107c-4088-877e-a32b43513642/47d64aa997accaa6e363?experience=power-bi",
-        desc: "This is my first Power BI project, created as part of my learning journey. I practiced and gained knowledge from the tutorials on the YouTube channel WsCube Tech. Through this project, I explored various Power BI features, including data modeling, visualizations, and dashboards. This hands-on experience allowed me to enhance my understanding of Power BI and its capabilities in transforming raw data into meaningful insights."
+        imgsrc: "projectImg/react/spotifydash.png",
+        href: "https://app.powerbi.com/view?r=eyJrIjoiZWE2Y2ZiYTItOTIxMC00MWRhLWI5YzgtYWQ5YzE5MTY2NDhmIiwidCI6ImMyMGMyZDM3LWUyMzgtNDI3Ni1iMzI1LTJlNmRjMmM3NTY3YSJ9",
+        desc: "This is my Second Power BI project, created as part of Given Project Assignment BY Ayushi Ma'am from WsCubeTech. I practiced and gained knowledge from the tutorials on the YouTube channel. Through this project, I explored various Power BI features, including data modeling, visualizations, and dashboards. This hands-on experience allowed me to enhance my understanding of Power BI and its capabilities in transforming raw data into meaningful insights."
     },
+    
     ]
 export const Experience = [
     {
